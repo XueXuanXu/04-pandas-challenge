@@ -4,7 +4,7 @@ This is the module 4 challenge about creating and manipulating Pandas DataFrames
 
 ---
 ## The Main Script
-[PyCity Schools Analysis](https://github.com/XueXuanXu/HW4/blob/master/PyCitySchools/PyCitySchools_starter.ipynb)
+[PyCity Schools Analysis](https://github.com/XueXuanXu/04-pandas-challenge/blob/master/PyCitySchools/PyCitySchools_starter.ipynb)
 >This script reads the *school_complete.csv* file and the *students_complete.csv* file, then does a few summaries based on the data in those files.
 ---
 
